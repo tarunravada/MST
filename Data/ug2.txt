@@ -1,0 +1,17 @@
+12 16 U
+A D 7
+A I 9
+A L 2
+B D 3
+B E -1
+C F 6
+C G -1
+D K -1
+D J 4
+E K -2
+F H 8
+G K 1
+G L -2
+G H 7
+H L 4
+H K 8
